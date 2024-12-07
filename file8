@@ -1,4 +1,9 @@
 This is file8
 This file is created on remotegitrepo from my local system
+<<<<<<< HEAD
+Email: andrew@cisco.com
+Designation: TCE
+=======
 Name- Andrew
 Age- 40
+>>>>>>> db7056f2ea072e83e9da889b5c5363f778f554c5
